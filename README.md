@@ -1,6 +1,6 @@
 # JavaFX Phone Book
 
-This is a simple **Phone Book** desktop application developed using **JavaFX** and **Scene Builder**. It allows users to add, edit, view, and delete contacts, each containing a name, phone number, and email address.
+This is a  **Phone Book** desktop application developed using **JavaFX** and **Scene Builder**. It allows users to add, edit, view, and delete contacts, each containing a name, phone number, and email address.
 
 ## Screenshots
 
@@ -27,9 +27,4 @@ This is a simple **Phone Book** desktop application developed using **JavaFX** a
 - JavaFX SDK (compatible with your JDK)
 - Scene Builder (for editing `.fxml` layout files)
 
-## How to Run
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/javafx-phonebook.git
-   cd javafx-phonebook
